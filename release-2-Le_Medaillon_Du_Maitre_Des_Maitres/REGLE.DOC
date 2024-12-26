@@ -1,0 +1,42 @@
+                RŠgle du jeu JDVELH 2:
+                             Le M‚daillon du MaŒtre des MaŒtres.
+
+     Avant de jouer, veuillez noter les points suivants:
+       - Un d‚s est inclus dans le programme, lorsque vous devez vous en
+       servir, il vous suffit de presser la touche 'D'.
+       - Votre feuille d'aventure est contenue dans le fichier FEUILAVE.DOC,
+       veuillez l'imprimer, ou le recopier. Vous devrez reporter tous vos
+       combats, et calculs sur cette feuille.
+
+     En d‚but de jeu, choisissez les caract‚ristiques de votre personnage:
+       - jetez 2 dŠs, additionnez le r‚sultat et mettez le en Habilet‚.
+       - jetez 2 dŠs, additionnez le r‚sultat pour trouver votre Endurance.
+       - jetez 2 d‚s, additionnez le r‚sultat pour obtenir votre Chance.
+Inscrivez ces r‚sultats sur votre feuille d'aventure.
+
+     En d‚but de partie, votre matŠriel est le suivant:
+       - 10 piŠces d'or,
+       - 5 repas,
+       - 1 ‚p‚e,
+       - 1 lanterne,
+       - 1 armure de cuir.
+
+     Lorsque vous rencontrerez des ennemis … combattre, reportez leurs points
+d'habilet‚, et d'endurance dans les cases correspondantes. Le combat se d‚roule
+en plusieurs tours:
+       - lancez 2 d‚s, ajoutez le r‚sultat … l'habilet‚ de la cr‚ature.
+       - lancez 2 d‚s pour vous, et ajoutez leur somme … vos points d'habilet‚
+       (ne reportez pas les modifications sur votre feuille de personnage).
+       - celui qui a la plus petite force d'attaque perd 2 points d'endurance.
+Le combat s'arrŠte lorsque le monstre ou le joueur n'a plus de points
+d'endurance. Si c'est le joueur, il doit recommencer la partie. (Mais vous
+pouvez toujours tricher, et jouer sans vous pr‚occuper des monstres)
+
+     Les points de chance peuvent vous servir tout au long du jeu lorsque le
+programme vous demandera de "Tenter votre chance". Cette ‚preuve consistera …
+lancer deux d‚s. Si vos points de chance sont infŠrieurs au r‚sultat des d‚s,
+vous aurez perdu, au contraire si la somme des d‚s est infŠrieure (ou ‚gale) …
+vos points de chance, vous aurez gagn‚ l'‚preuve. Gagnant ou perdant, choisissez
+l'option correspondante...
+
+                                                Patrick Pr‚martin, 9 Jan 1992.
