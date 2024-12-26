@@ -1,39 +1,45 @@
-# Delphi-Projects-Template
+# JDVELH Collection - Turbo Pascal - MS-Dos - 1992
 
 [Cette page en français.](LISEZMOI.md)
 
-A git template for my Delphi (or others) projects.
+A fan of the books you are the hero of when I was a teenager, and a great adventure game player ([L'Aigle d'Or](https://en.wikipedia.org/wiki/L%27Aigle_d%27Or), [I.L. L'intrus](http://dcmoto.free.fr/programmes/il-l-intrus/index.html), [Dungeon Master](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)), [The Bard's Tale](https://en.wikipedia.org/wiki/The_Bard%27s_Tale) and of course [Sierra On-Line](https://en.wikipedia.org/wiki/Sierra_Entertainment), [Delphine Software](https://en.wikipedia.org/wiki/Delphine_Software_International) and [Lucasarts](https://en.wikipedia.org/wiki/Lucasfilm_Games)) at the time, having coded a few games in the same style on [Thomson TO7-70](https://fr.wikipedia.org/wiki/Thomson_TO7/70), [Thomson TO9](https://en.wikipedia.org/wiki/Thomson_TO9) and [Atari 1040ST](https://en.wikipedia.org/wiki/Atari_ST), I also threw myself into writing several adventures and coding them on PC under MS-Dos with [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal) in 1991 and 1992.
 
-This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.
+The source codes present in this code repository and the compiled programs correspond to these 3 adventures in French:
 
-This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+* The Key to Wealth (01/1992)
+* The Master of Masters' medallion (02/1992)
+* How to warn the Masters (07/1992)
 
-## Install
+You'll only be able to play it under MS-Dos or with an emulator, or perhaps recompile the whole thing with [Free Pascal](https://www.freepascal.org) for the Windows or Linux terminal.
 
-To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+Like almost all my software at the time, these games were distributed by Distri Soft Club and [Pressimage](https://fr.wikipedia.org/wiki/Pressimage). At the time, everything was distributed by mail or downloaded from BBSs and premium-rate telephone services.
 
-**Warning :** if the project has submodules dependencies they wont be in the ZIP file. You'll have to download them manually.
+I used my text display module with hyperlinks. The hypertext file editor was also distributed. I don't know if other people did anything with it, but it was first in my top 10 according to the stats provided by Distri Soft Club on 30/10/1992. Its source codes are on [this code repository]. A more modern version will be made one day so that the corresponding files can be reopened and perhaps converted to HTML.
 
-## Dependencies
+It's possible that these programs are compilable with [Free Pascal](https://www.freepascal.org) but I haven't tried. Units not supplied can be found in the [DeveloppeurPascal/librairies-TurboPascal](https://github.com/DeveloppeurPascal/librairies-TurboPascal) repository. If any are missing, please let me know so that I can add them.
 
-This project depends on :
+Check out [my other open source projects in Turbo Pascal](https://github.com/DeveloppeurPascal?tab=repositories&q=TurboPascal&type=&language=&sort=) if you're interested in software archeology.
 
-* project 1
-* project 2
+## Talks and conferences
 
-## How to ask a new feature, report a bug or a security issue ?
+### Twitch
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
 
-If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
+## License to use this code repository and its contents
 
-You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
 
-## Dual licensing model (only for my projects, not for this code repository template)
+You are generally free to use the contents of this code repository anywhere, provided that:
+* you mention it in your projects
+* distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
+* to distribute the source code of your creations under the AGPL license.
 
-This project is distributed under [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
+If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
 
-If you want to use it or a part of it in your projects but don't want to share the sources or don't want to distribute your project under the same license you can buy the right to use it under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+These source codes are provided as is, without warranty of any kind.
+
+Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
 
 ## Support the project and its author
 
